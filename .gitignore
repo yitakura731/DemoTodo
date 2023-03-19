@@ -1,0 +1,14 @@
+Backend/.gradle
+Backend/.settings
+Backend/settings.gradle
+Backend/build/
+Backend/gradle/wrapper
+Backend/.classpath
+Backend/.project
+Backend/gradlew
+Backend/gradlew.bat
+Backend/setting.gradle
+Backend/bin
+.metadata
+Servers
+

@@ -1,0 +1,13 @@
+graphql:
+  servlet:
+    enabled: true
+    mapping: /graphql
+    corsEnabled: true
+spring:
+   data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: Demo
+      username: demo
+      password: demo

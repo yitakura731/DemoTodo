@@ -1,0 +1,17 @@
+enum TodoStatus {
+  FINISH
+  RUNNING
+  NOT_YET
+}
+
+type TodoResponse {
+    id: String!
+    name: String!
+    status: TodoStatus!
+    detail: String!
+}
+
+type Query {
+    getTodos: [TodoResponse]
+    getTodo(id:String!): TodoResponse
+}
