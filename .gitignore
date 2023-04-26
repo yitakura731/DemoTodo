@@ -1,3 +1,13 @@
+Frontend/node_modules
+Frontend/*.log*
+Frontend/.nuxt
+Frontend/.nitro
+Frontend/.cache
+Frontend/.output
+Frontend/.env
+Frontend/dist
+Frontend/.DS_Store
+Backend/.gradle
 Backend/.gradle
 Backend/.settings
 Backend/settings.gradle
